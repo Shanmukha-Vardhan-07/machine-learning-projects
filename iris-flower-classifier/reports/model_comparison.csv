@@ -1,0 +1,6 @@
+Model,Test Accuracy,CV Mean Accuracy,CV Std
+KNN,1.0,0.9726,0.0257
+Logistic Regression,0.9667,0.9591,0.0259
+Random Forest,0.9667,0.9591,0.0259
+SVM,0.9333,0.9591,0.0339
+Decision Tree,0.9333,0.9522,0.0469
